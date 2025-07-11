@@ -1,8 +1,8 @@
 [
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Community Shaders Visual Overhaul",
-    "description": "A full Community Shaders PBR visual overhaul baseline",
+    "title": "CSVO",
+    "description": "A full Community Shaders PBR Visual Overhaul baseline",
     "author": "Bottle",
     "maintainers": [
       "github/InTheBottle"
