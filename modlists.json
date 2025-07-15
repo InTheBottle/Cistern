@@ -39,8 +39,8 @@
     },
     {
         "$type": "ModListMetadata, Wabbajack.Lib",
-        "title": "CSVO - Community Shaders Visual Overhaul",
-        "description": "A full Community Shaders PBR Visual Overhaul baseline",
+        "title": "BottleRim",
+        "description": "A total light survival SimonRim focused gameplay overhaul using Community Shaders.",
         "author": "Bottle",
         "maintainers": [
             "github/InTheBottle"
@@ -49,30 +49,29 @@
         "tags": [
             "SFW",
             "Steam",
-            "Vanilla+",
-            "Utility"
+            "Vanilla+"
         ],
         "nsfw": false,
         "image_contains_title": true,
         "force_down": false,
         "links": {
             "$type": "Links, Wabbajack.Lib",
-            "image": "https://raw.githubusercontent.com/InTheBottle/CSVO/main/Resources/csvo.png",
-            "readme": "https://github.com/InTheBottle/CSVO/blob/main/README.md",
-            "download": "https://authored-files.wabbajack.org/CSVO.wabbajack_f68ab188-2b40-4f4e-ac93-ddabda52a238",
-            "machineURL": "CSVO",
+            "image": "https://raw.githubusercontent.com/InTheBottle/BottleRim/refs/heads/main/Resources/BottleRim.webp",
+            "readme": "https://github.com/InTheBottle/BottleRim/blob/main/README.md",
+            "download": "https://authored-files.wabbajack.org/BottleRim.wabbajack_22ba8d68-4619-44c3-8e2d-5960bd425167",
+            "machineURL": "BottleRim",
             "discordURL": "https://discord.gg/avzs76EgnA"
         },
         "download_metadata": {
             "$type": "DownloadMetadata, Wabbajack.Lib",
-            "Hash": "630CJAj/OpM=",
-            "Size": 664974281,
-            "NumberOfArchives": 492,
-            "SizeOfArchives": 61155978567,
-            "NumberOfInstalledFiles": 113933,
-            "SizeOfInstalledFiles": 87409938212,
-            "TotalSize": 148565916779
+            "Hash": "+yh8sXJbaNc=",
+            "Size": 993765302,
+            "NumberOfArchives": 1267,
+            "SizeOfArchives": 78451803229,
+            "NumberOfInstalledFiles": 176827,
+            "SizeOfInstalledFiles": 115891675358,
+            "TotalSize": 194343478587
         },
-        "version": "1.4.0"
+        "version": "1.0.0"
     }
 ]
