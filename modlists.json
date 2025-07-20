@@ -53,24 +53,24 @@
         ],
         "nsfw": false,
         "image_contains_title": true,
-        "force_down": true,
+        "force_down": false,
         "links": {
             "$type": "Links, Wabbajack.Lib",
             "image": "https://raw.githubusercontent.com/InTheBottle/BottleRim/main/Resources/BottleRim.webp",
             "readme": "https://github.com/InTheBottle/BottleRim/blob/main/README.md",
-            "download": "https://authored-files.wabbajack.org/BottleRim.wabbajack_e3e7d823-dc16-4df2-a0ec-894e0581a16c",
+            "download": "https://authored-files.wabbajack.org/BottleRim.wabbajack_f9ab7e09-1163-4f1e-843d-4cfb5eed6aaa",
             "machineURL": "BottleRim",
             "discordURL": "https://discord.gg/avzs76EgnA"
         },
         "download_metadata": {
             "$type": "DownloadMetadata, Wabbajack.Lib",
-            "Hash": "BpJahE0rK2E=",
-            "Size": 1331741245,
-            "NumberOfArchives": 1566,
-            "SizeOfArchives": 98842295547,
-            "NumberOfInstalledFiles": 217937,
-            "SizeOfInstalledFiles": 150640129522,
-            "TotalSize": 249482425069
+            "Hash": "r/wBMWTQ2Fc=",
+            "Size": 1331507422,
+            "NumberOfArchives": 1570,
+            "SizeOfArchives": 98849930716,
+            "NumberOfInstalledFiles": 217982,
+            "SizeOfInstalledFiles": 150659494254,
+            "TotalSize": 249509424970
         },
         "version": "2.0.0"
     }
