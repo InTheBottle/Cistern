@@ -40,7 +40,7 @@
     {
         "$type": "ModListMetadata, Wabbajack.Lib",
         "title": "BottleRim",
-        "description": "A total light survival SimonRim focused gameplay overhaul using Community Shaders including full PBR visuals.",
+        "description": "Complete Vanilla+ light survival Simonrim Overhaul built upon CSVO with full PBR visuals, and a focus on First Person gameplay.",
         "author": "Bottle",
         "maintainers": [
             "github/InTheBottle"
