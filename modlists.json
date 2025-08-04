@@ -21,21 +21,21 @@
             "$type": "Links, Wabbajack.Lib",
             "image": "https://raw.githubusercontent.com/InTheBottle/CSVO/main/Resources/csvo.png",
             "readme": "https://github.com/InTheBottle/CSVO/blob/main/README.md",
-            "download": "https://authored-files.wabbajack.org/CSVO.wabbajack_2ccf8700-b48c-4206-b5c0-1ff2e4d279dd",
+            "download": "https://authored-files.wabbajack.org/CSVO.wabbajack_0db62a64-3721-4619-92a2-19d53429b43d",
             "machineURL": "CSVO",
             "discordURL": "https://discord.gg/avzs76EgnA"
         },
         "download_metadata": {
             "$type": "DownloadMetadata, Wabbajack.Lib",
-            "Hash": "YRz9Da+eEq4=",
-            "Size": 675602515,
-            "NumberOfArchives": 496,
-            "SizeOfArchives": 61110607759,
-            "NumberOfInstalledFiles": 115458,
-            "SizeOfInstalledFiles": 87458614493,
-            "TotalSize": 148569222252
+            "Hash": "CLM0Y/Z2LWo=",
+            "Size": 1355950304,
+            "NumberOfArchives": 498,
+            "SizeOfArchives": 61118507476,
+            "NumberOfInstalledFiles": 115469,
+            "SizeOfInstalledFiles": 87524174561,
+            "TotalSize": 148642682037
         },
-        "version": "1.4.4"
+        "version": "1.4.5"
     },
     {
         "$type": "ModListMetadata, Wabbajack.Lib",
