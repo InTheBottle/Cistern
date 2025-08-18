@@ -1,79 +1,86 @@
 [
-    {
-        "$type": "ModListMetadata, Wabbajack.Lib",
-        "title": "CSVO - Community Shaders Visual Overhaul",
-        "description": "A full Community Shaders PBR Visual Overhaul baseline",
-        "author": "Bottle",
-        "maintainers": [
-            "github/InTheBottle"
-        ],
-        "game": "skyrimspecialedition",
-        "tags": [
-            "SFW",
-            "Steam",
-            "Vanilla+",
-            "Utility",
-            "official"
-        ],
-        "nsfw": false,
-        "image_contains_title": true,
-        "force_down": false,
-        "official": true,
-        "links": {
-            "$type": "Links, Wabbajack.Lib",
-            "image": "https://raw.githubusercontent.com/InTheBottle/CSVO/main/Resources/csvo.png",
-            "readme": "https://github.com/InTheBottle/CSVO/blob/main/README.md",
-            "download": "https://authored-files.wabbajack.org/CSVO.wabbajack_4bfd1fa0-22fb-4abc-8c73-b159ff656801",
-            "machineURL": "CSVO",
-            "discordURL": "https://discord.gg/avzs76EgnA"
-        },
-        "download_metadata": {
-            "$type": "DownloadMetadata, Wabbajack.Lib",
-            "Hash": "AEHv/VUVMug=",
-            "Size": 2111798948,
-            "NumberOfArchives": 415,
-            "SizeOfArchives": 57276255805,
-            "NumberOfInstalledFiles": 98199,
-            "SizeOfInstalledFiles": 84886941451,
-            "TotalSize": 142163197256
-        },
-        "version": "1.5.0"
+  {
+    "title": "CSVO - Community Shaders Visual Overhaul",
+    "description": "A full Community Shaders PBR Visual Overhaul baseline",
+    "author": "Bottle",
+    "maintainers": [
+      "github/InTheBottle"
+    ],
+    "game": "skyrimspecialedition",
+    "official": true,
+    "tags": [
+      "SFW",
+      "Steam",
+      "Vanilla\u002B",
+      "Utility",
+      "official"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/InTheBottle/CSVO/main/Resources/csvo.png",
+      "readme": "https://github.com/InTheBottle/CSVO/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/CSVO.wabbajack_914122b3-92e0-410b-bf1d-e2d31315adc5",
+      "machineURL": "CSVO",
+      "discordURL": "https://discord.gg/avzs76EgnA",
+      "websiteURL": ""
     },
-    {
-        "$type": "ModListMetadata, Wabbajack.Lib",
-        "title": "BottleRim",
-        "description": "Complete Vanilla+ light survival Simonrim Overhaul built upon CSVO with full PBR visuals, and a focus on First Person gameplay.",
-        "author": "Bottle",
-        "maintainers": [
-            "github/InTheBottle"
-        ],
-        "game": "skyrimspecialedition",
-        "tags": [
-            "SFW",
-            "Steam",
-            "Vanilla+"
-        ],
-        "nsfw": false,
-        "image_contains_title": true,
-        "force_down": false,
-        "links": {
-            "$type": "Links, Wabbajack.Lib",
-            "image": "https://raw.githubusercontent.com/InTheBottle/BottleRim/refs/heads/main/Resources/Bottlerim.webp",
-            "readme": "https://github.com/InTheBottle/BottleRim/blob/main/README.md",
-            "download": "https://authored-files.wabbajack.org/BottleRim.wabbajack_45303e83-81a8-4a9a-a4d1-e94751fb1149",
-            "machineURL": "BottleRim",
-            "discordURL": "https://discord.gg/avzs76EgnA"
-        },
-        "download_metadata": {
-            "$type": "DownloadMetadata, Wabbajack.Lib",
-            "Hash": "uWF7lq0hTXM=",
-            "Size": 5135684032,
-            "NumberOfArchives": 1979,
-            "SizeOfArchives": 122244160647,
-            "NumberOfInstalledFiles": 246371,
-            "SizeOfInstalledFiles": 199481701777,
-            "TotalSize": 321725862424
-        },
-        "version": "2.6.0"
-    }
+    "download_metadata": {
+      "Hash": "3bTa47lQsp8=",
+      "Size": 2525990212,
+      "NumberOfArchives": 435,
+      "SizeOfArchives": 58238585370,
+      "NumberOfInstalledFiles": 103658,
+      "SizeOfInstalledFiles": 88526191481,
+      "TotalSize": 146764776851
+    },
+    "version": "1.6.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-08-18T15:42:56.2680084Z",
+    "repositoryName": ""
+  },
+  {
+    "title": "BottleRim",
+    "description": "Complete Vanilla\u002B light survival Simonrim Overhaul built upon CSVO with full PBR visuals, and a focus on First Person gameplay.",
+    "author": "Bottle",
+    "maintainers": [
+      "github/InTheBottle"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "SFW",
+      "Steam",
+      "Vanilla\u002B"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/InTheBottle/BottleRim/refs/heads/main/Resources/Bottlerim.webp",
+      "readme": "https://github.com/InTheBottle/BottleRim/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/BottleRim.wabbajack_45303e83-81a8-4a9a-a4d1-e94751fb1149",
+      "machineURL": "BottleRim",
+      "discordURL": "https://discord.gg/avzs76EgnA",
+      "websiteURL": ""
+    },
+    "download_metadata": {
+      "Hash": "uWF7lq0hTXM=",
+      "Size": 5135684032,
+      "NumberOfArchives": 1979,
+      "SizeOfArchives": 122244160647,
+      "NumberOfInstalledFiles": 246371,
+      "SizeOfInstalledFiles": 199481701777,
+      "TotalSize": 321725862424
+    },
+    "version": "2.6.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "0001-01-01T00:00:00",
+    "repositoryName": ""
+  }
 ]
