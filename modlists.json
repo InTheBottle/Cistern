@@ -25,7 +25,7 @@
       "readme": "https://github.com/InTheBottle/CSVO/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/CSVO.wabbajack_75104eaa-285d-4791-99e2-b0bba689d3dd",
       "machineURL": "CSVO",
-      "discordURL": "https://discord.gg/avzs76EgnA",
+      "discordURL": "https://discord.gg/bungalo",
       "websiteURL": ""
     },
     "download_metadata": {
@@ -66,7 +66,7 @@
       "readme": "https://github.com/InTheBottle/BottleRim/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/BottleRim.wabbajack_45303e83-81a8-4a9a-a4d1-e94751fb1149",
       "machineURL": "BottleRim",
-      "discordURL": "https://discord.gg/avzs76EgnA",
+      "discordURL": "https://discord.gg/bungalo",
       "websiteURL": ""
     },
     "download_metadata": {
@@ -83,4 +83,5 @@
     "dateUpdated": "0001-01-01T00:00:00",
     "repositoryName": ""
   }
+
 ]
