@@ -65,23 +65,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/InTheBottle/BottleRim/refs/heads/main/Resources/Bottlerim.webp",
       "readme": "https://github.com/InTheBottle/BottleRim/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/BottleRim.wabbajack_e2da3c7e-0a0c-4a8a-80ca-e036d0d4544e",
+      "download": "https://authored-files.wabbajack.org/BottleRim.wabbajack_c4bcb4d6-e62e-49fc-909b-05a75528acc7",
       "machineURL": "BottleRim",
       "discordURL": "https://discord.gg/bungalo",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "Htmydfz+7AI=",
-      "Size": 1289126721,
+      "Hash": "weFyjycltUk=",
+      "Size": 1289137677,
       "NumberOfArchives": 2044,
-      "SizeOfArchives": 128075373880,
-      "NumberOfInstalledFiles": 260506,
-      "SizeOfInstalledFiles": 213244223420,
-      "TotalSize": 341319597300
+      "SizeOfArchives": 128082356304,
+      "NumberOfInstalledFiles": 260723,
+      "SizeOfInstalledFiles": 213275181136,
+      "TotalSize": 341357537440
     },
-    "version": "4.1.0",
+    "version": "4.1.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-11-16T16:29:46.5605882Z",
+    "dateUpdated": "2025-11-16T20:18:39.9033079Z",
     "repositoryName": ""
   }
 ]
