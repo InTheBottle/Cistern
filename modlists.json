@@ -63,7 +63,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/InTheBottle/BottleRim/refs/heads/main/Resources/Bottlerim.webp",
+      "image": "https://raw.githubusercontent.com/InTheBottle/BottleRim/refs/heads/main/Resources/Skyrim.webp",
       "readme": "https://github.com/InTheBottle/BottleRim/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/BottleRim.wabbajack_8977d284-8354-47be-9a2c-ef5eef82e8c4",
       "machineURL": "BottleRim",
@@ -84,4 +84,5 @@
     "dateUpdated": "2025-11-21T20:49:13.4725872Z",
     "repositoryName": ""
   }
+
 ]
