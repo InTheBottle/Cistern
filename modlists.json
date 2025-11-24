@@ -44,7 +44,7 @@
   },
   {
     "title": "BottleRim",
-    "description": "Complete Vanilla\u002B light survival Simonrim Overhaul built upon CSVO with full PBR visuals, and a focus on First Person gameplay.",
+    "description": "A total survival difficulty based gameplay overhaul using SimonRim and Community Shaders. Focused on modern combat for both first and third person, and heavy immersion.",
     "author": "Bottle",
     "maintainers": [
       "github/InTheBottle"
@@ -84,4 +84,5 @@
     "dateUpdated": "2025-11-24T23:13:25.7802014Z",
     "repositoryName": ""
   }
+
 ]
