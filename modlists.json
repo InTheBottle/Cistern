@@ -23,23 +23,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/InTheBottle/CSVO/main/Resources/csvo.png",
       "readme": "https://github.com/InTheBottle/CSVO/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/CSVO.wabbajack_e46f136d-2ac9-44be-8df4-2f5d7845630c",
+      "download": "https://authored-files.wabbajack.org/CSVO.wabbajack_2f0bec31-5843-4bae-a74d-3a2451339a4c",
       "machineURL": "CSVO",
       "discordURL": "https://discord.gg/bungalo",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "zUj7vQIPitg=",
-      "Size": 958811862,
-      "NumberOfArchives": 445,
-      "SizeOfArchives": 62762201230,
-      "NumberOfInstalledFiles": 104867,
-      "SizeOfInstalledFiles": 91074134497,
-      "TotalSize": 153836335727
+      "Hash": "ytDNAwJB2lE=",
+      "Size": 980956399,
+      "NumberOfArchives": 452,
+      "SizeOfArchives": 61638908112,
+      "NumberOfInstalledFiles": 105683,
+      "SizeOfInstalledFiles": 90696537091,
+      "TotalSize": 152335445203
     },
-    "version": "2.0.1",
+    "version": "2.1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-10-30T22:35:52.4621504Z",
+    "dateUpdated": "2025-11-28T02:26:48.9081357Z",
     "repositoryName": ""
   },
   {
@@ -84,5 +84,4 @@
     "dateUpdated": "2025-11-24T23:13:25.7802014Z",
     "repositoryName": ""
   }
-
 ]
