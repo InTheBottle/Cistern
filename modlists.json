@@ -65,23 +65,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/InTheBottle/BottleRim/refs/heads/main/Resources/Skyrim.webp",
       "readme": "https://github.com/InTheBottle/BottleRim/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/BottleRim.wabbajack_5899ef7c-d83f-4774-90f9-c1849ae30e68",
+      "download": "https://authored-files.wabbajack.org/BottleRim.wabbajack_3f9461b5-b77e-4773-ae42-dffce1706412",
       "machineURL": "BottleRim",
       "discordURL": "https://discord.gg/bungalo",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "OnSKfuKvhGw=",
-      "Size": 1704210738,
-      "NumberOfArchives": 2183,
-      "SizeOfArchives": 134435708425,
-      "NumberOfInstalledFiles": 286013,
-      "SizeOfInstalledFiles": 221464875303,
-      "TotalSize": 355900583728
+      "Hash": "viIN4+qspqc=",
+      "Size": 1619270729,
+      "NumberOfArchives": 2347,
+      "SizeOfArchives": 134984108790,
+      "NumberOfInstalledFiles": 293501,
+      "SizeOfInstalledFiles": 224910093712,
+      "TotalSize": 359894202502
     },
-    "version": "1.1.2",
+    "version": "1.2.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-12-09T00:24:24.1453329Z",
+    "dateUpdated": "2025-12-15T00:29:40.4676179Z",
     "repositoryName": ""
   }
 ]
