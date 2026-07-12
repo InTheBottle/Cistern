@@ -65,7 +65,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/InTheBottle/BottleRim/refs/heads/main/Resources/1.8.webp",
       "readme": "https://github.com/InTheBottle/BottleRim/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/BottleRim.wabbajack_f3c4ce91-328b-4342-8dc0-f7d405006712",
+      "download": "https://authored-files.wabbajack.org/BottleRim.wabbajack_e3d6961c-f779-408d-bdad-1a581b3e4a24",
       "machineURL": "BottleRim",
       "discordURL": "https://discord.gg/WF66mMu",
       "websiteURL": "",
@@ -77,17 +77,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "AMT4O/HnOF0=",
-      "Size": 2315946494,
-      "NumberOfArchives": 2603,
-      "SizeOfArchives": 142796124767,
-      "NumberOfInstalledFiles": 298166,
-      "SizeOfInstalledFiles": 217753335983,
-      "TotalSize": 360549460750
+      "Hash": "ndZsWYdZZvA=",
+      "Size": 2314395532,
+      "NumberOfArchives": 2600,
+      "SizeOfArchives": 142638750000,
+      "NumberOfInstalledFiles": 297963,
+      "SizeOfInstalledFiles": 217087698227,
+      "TotalSize": 359726448227
     },
-    "version": "2.4.1",
+    "version": "2.4.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-07-12T05:14:40.3611384Z",
+    "dateUpdated": "2026-07-12T21:45:02.2188926Z",
     "repositoryName": ""
   }
 ]
