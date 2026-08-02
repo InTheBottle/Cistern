@@ -23,24 +23,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/InTheBottle/CSVO/main/Resources/csvo.png",
       "readme": "https://github.com/InTheBottle/CSVO/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/CSVO.wabbajack_0f353bba-da8c-489b-9eeb-76e0c31a78fc",
+      "download": "https://authored-files.wabbajack.org/CSVO.wabbajack_87c6adaf-3336-45e6-8fae-76071bd926d2",
       "machineURL": "CSVO",
       "discordURL": "https://discord.gg/WF66mMu",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "DoFLBBCwVH4=",
-      "Size": 765442290,
-      "NumberOfArchives": 460,
-      "SizeOfArchives": 78280698755,
-      "NumberOfInstalledFiles": 81709,
-      "SizeOfInstalledFiles": 110046100719,
-      "TotalSize": 188326799474
+      "Hash": "6xUinMnFG5c=",
+      "Size": 713366957,
+      "NumberOfArchives": 466,
+      "SizeOfArchives": 63746858257,
+      "NumberOfInstalledFiles": 99512,
+      "SizeOfInstalledFiles": 83156996187,
+      "TotalSize": 146903854444
     },
-    "version": "2.2.0",
+    "version": "2.3.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-04-04T21:31:22.5987761Z",
+    "dateUpdated": "2026-08-02T00:49:31.4646624Z",
     "repositoryName": ""
   },
   {
