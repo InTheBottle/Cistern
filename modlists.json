@@ -27,7 +27,12 @@
       "machineURL": "CSVO",
       "discordURL": "https://discord.gg/WF66mMu",
       "websiteURL": "",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "486798",
+        "slug": "8gtv0d",
+        "domainName": "skyrimspecialedition",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "6xUinMnFG5c=",
