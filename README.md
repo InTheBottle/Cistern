@@ -1,4 +1,4 @@
 # Cistern Modlists
 
-- BottleRim
+- HexRim
 - CSVO
