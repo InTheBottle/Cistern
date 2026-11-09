@@ -70,7 +70,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/InTheBottle/HexRim/refs/heads/main/Resources/HexRim.png",
       "readme": "https://github.com/InTheBottle/HexRim/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/HexRim.wabbajack_c1961691-aeab-4a42-b356-ececb44fd1f5",
+      "download": "https://authored-files.wabbajack.org/HexRim.wabbajack_afad4fff-a5e3-43ef-b99e-c27cc54eef56",
       "machineURL": "BottleRim",
       "discordURL": "https://discord.gg/bottled",
       "websiteURL": "",
@@ -82,17 +82,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "xnqAjwYYtoA=",
-      "Size": 1196807751,
-      "NumberOfArchives": 1696,
-      "SizeOfArchives": 117669733059,
-      "NumberOfInstalledFiles": 294573,
-      "SizeOfInstalledFiles": 190905087562,
-      "TotalSize": 308574820621
+      "Hash": "7G5X5MYhFr8=",
+      "Size": 2405185743,
+      "NumberOfArchives": 1837,
+      "SizeOfArchives": 116458246715,
+      "NumberOfInstalledFiles": 345991,
+      "SizeOfInstalledFiles": 200096441627,
+      "TotalSize": 316554688342
     },
-    "version": "1.3.1",
+    "version": "1.4.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-11-01T01:35:08.6717236Z",
+    "dateUpdated": "2026-11-09T01:07:44.6291522Z",
     "repositoryName": ""
   }
 ]
